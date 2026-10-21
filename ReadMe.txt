@@ -222,6 +222,8 @@ Use responsibly.
 Use only in controlled environments.
 
 
-+====================================================================+
-|                              END                                   |
-+====================================================================+
++--------------------------------------------------------------------+
+| LICENSE                                                            |
++--------------------------------------------------------------------+
+
+[MIT License](https://github.com/christofrancis/sketchyform/blob/main/LICENSE) — copyright (c) 2026 christofrancis.
