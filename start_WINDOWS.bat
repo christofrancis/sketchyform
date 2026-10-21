@@ -22,6 +22,7 @@ if exist "%CONFIG_FILE%" (
 )
 
 echo ==============================
+echo          SketchyForm
 echo       SERVER CONFIGURATION
 echo ==============================
 echo.
@@ -75,7 +76,7 @@ if not exist "router.php" (
 
 set "WEBSITE_URL=http://%IP%:%PORT%/index.html"
 
-echo Starting PHP server...
+echo Starting SketchyForm PHP server...
 echo.
 echo Website URL:
 echo %WEBSITE_URL%

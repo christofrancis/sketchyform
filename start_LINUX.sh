@@ -22,6 +22,7 @@ if [ -f "$CONFIG_FILE" ]; then
 fi
 
 echo "=============================="
+echo "         SketchyForm"
 echo "      SERVER CONFIGURATION"
 echo "=============================="
 echo
@@ -87,7 +88,7 @@ trap 'exit 130' INT
 trap 'exit 143' TERM
 trap cleanup EXIT
 
-echo "Starting PHP server..."
+echo "Starting SketchyForm PHP server..."
 echo
 
 # Process substitution keeps SERVER_PID as the PHP process PID.
