@@ -1,5 +1,5 @@
 +====================================================================+
-|                    UNSAFE CREDS - macOS SETUP                      |
+|                    SketchyForm - macOS SETUP                       |
 +====================================================================+
 
 The macOS launcher is:
@@ -45,7 +45,7 @@ Open Terminal and enter the project directory.
 
 Example:
 
-   cd unsafe_creds
+   cd SketchyForm
 
 
 +--------------------------------------------------------------------+

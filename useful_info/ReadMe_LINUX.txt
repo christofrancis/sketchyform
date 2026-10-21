@@ -1,5 +1,5 @@
 +====================================================================+
-|                    UNSAFE CREDS - LINUX SETUP                      |
+|                    SketchyForm - LINUX SETUP                       |
 +====================================================================+
 
 These instructions are intended for Linux systems such as Kali Linux,
@@ -24,13 +24,16 @@ Verify:
 | 2. DOWNLOAD THE PROJECT                                            |
 +--------------------------------------------------------------------+
 
-Clone the repository or download and extract the ZIP archive.
+Clone the repository into a folder named SketchyForm:
 
-Open a terminal inside the project directory.
+   git clone YOUR_GITHUB_REPOSITORY_URL SketchyForm
 
-Example:
+Alternatively, download and extract the ZIP archive, then rename the
+extracted folder to SketchyForm.
 
-   cd unsafe_creds
+Open a terminal inside the project directory:
+
+   cd SketchyForm
 
 
 +--------------------------------------------------------------------+

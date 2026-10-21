@@ -1,5 +1,5 @@
 +====================================================================+
-|                   UNSAFE CREDS - WINDOWS SETUP                     |
+|                   SketchyForm - WINDOWS SETUP                      |
 +====================================================================+
 
 The Windows launcher is:
@@ -54,9 +54,14 @@ not available in PATH yet.
 | 3. DOWNLOAD THE PROJECT                                            |
 +--------------------------------------------------------------------+
 
-Clone the repository or download and extract the ZIP archive.
+Clone the repository into a folder named SketchyForm:
 
-Open the project directory.
+   git clone YOUR_GITHUB_REPOSITORY_URL SketchyForm
+
+Alternatively, download and extract the ZIP archive, then rename the
+extracted folder to SketchyForm.
+
+Open the SketchyForm project directory.
 
 
 +--------------------------------------------------------------------+

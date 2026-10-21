@@ -1,8 +1,8 @@
 +====================================================================+
-|                  UNSAFE CREDS - EDUCATIONAL PROJECT                |
+|                  SketchyForm - EDUCATIONAL PROJECT                 |
 +====================================================================+
 
-Unsafe Creds is a small educational PHP project for learning basic
+SketchyForm is a small educational PHP project for learning basic
 web application, HTTP request, local networking, logging, and
 cybersecurity concepts.
 

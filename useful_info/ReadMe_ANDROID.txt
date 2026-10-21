@@ -1,5 +1,5 @@
 +====================================================================+
-|              UNSAFE CREDS - ANDROID / TERMUX SETUP                |
+|              SketchyForm - ANDROID / TERMUX SETUP                 |
 +====================================================================+
 
 The Android version uses Termux and the launcher:
@@ -47,13 +47,13 @@ Verify:
 Cloning the repository directly into the Termux home directory is the
 simplest option:
 
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone YOUR_GITHUB_REPOSITORY_URL SketchyForm
 
 Enter the project directory:
 
-   cd unsafe_creds
+   cd SketchyForm
 
-Replace the directory name if your repository uses a different name.
+The last argument to git clone sets the local folder name.
 
 
 +--------------------------------------------------------------------+

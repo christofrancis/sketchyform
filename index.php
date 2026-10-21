@@ -175,7 +175,7 @@ error_log(
     </main>
 
 <footer>
-  Unsafe Creds &bull; Copyright &copy; 2026
+  SketchyForm &bull; Copyright &copy; 2026
   <a
     href="https://github.com/christofrancis"
     target="_blank"

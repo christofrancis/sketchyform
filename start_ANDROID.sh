@@ -141,7 +141,7 @@ if [ -f "$PID_FILE" ]; then
               "$OLD_CMD" == *"-S"* &&
               "$OLD_CMD" == *"router.php"* ]]; then
 
-            echo "Found previous Unsafe Creds PHP server (PID $OLD_PID)."
+            echo "Found previous SketchyForm PHP server (PID $OLD_PID)."
             echo "Stopping it before restart..."
 
             stop_pid "$OLD_PID"
